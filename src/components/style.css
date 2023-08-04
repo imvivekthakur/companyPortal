@@ -1,0 +1,37 @@
+.container90 {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.margin-brand {
+  width: 100px;
+  text-align: center;
+}
+.margin-left-right {
+  width: 150px;
+  text-align: center;
+}
+
+.theme {
+  color: #ff9f66;
+}
+
+.box-shadow {
+  border-radius: 10px;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.alignList {
+  list-style: none;
+  padding: 0;
+}
+/* @media (min-width: 1200px) {
+  .container {
+    max-width: 800px;
+  }
+} */
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
